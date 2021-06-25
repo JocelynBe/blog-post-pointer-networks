@@ -2,7 +2,7 @@
 
 Code for the following blog post I authored https://hyperscience.com/tech-blog/power-of-pointer-networks/
 
-In this project we showcase the ability of pointer networks to extract information from semi
+In this project I showcase the ability of pointer networks to extract information from semi
 -structured documents on a toy dataset.
 
 This folder contains five files/directory:
